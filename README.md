@@ -8,4 +8,4 @@ Bees either try to move toward the end of the tunnel or sting ants in their way.
 The game ends either when a bee reaches the end of the tunnel (you lose), the bees destroy the QueenAnt if it exists (you lose), or the entire bee fleet has been vanquished (you win).
 
 # Important Note
-I'm responsible only for implementing the ants.py file thats where the whole game logic lies in.
+I'm responsible only of implementing the ants.py file thats where the whole game logic lies in.
